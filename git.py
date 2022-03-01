@@ -1,0 +1,5 @@
+print("hello world")
+prinnt("ewqewqewqewqewq")
+prinnt("ewqewqewqewqewq")
+prinnt("ewqewqewqewqewq")
+prinnt("ewqewqewqewqewq")
